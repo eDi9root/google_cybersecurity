@@ -3,8 +3,11 @@ Google Cybersecurity Professional Certificate
 
 ## About
 ```
-Holds all the portfolio projects, and notes, I have completed the Google Cybersecurity Professional Certificate
-Skills: Python, Linux, SQL, SIEM tools, IDS, Wireshark, tcpdump, firewalls, analysis, problem-solving, and communication.
+Holds all the portfolio projects, and notes, I have completed the
+Google Cybersecurity Professional Certificate
+
+Skills: Python, Linux, SQL, SIEM tools, IDS, Wireshark,
+        tcpdump, firewalls, analysis, problem-solving, and communication.
 ```
 
 ### Composition
