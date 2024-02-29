@@ -1,5 +1,6 @@
 # google_cybersecurity
 Google Cybersecurity Professional Certificate
+Portfolio describes my skills and knowledge through participation in various tasks in the Program.
 
 ## About
 ```
