@@ -22,4 +22,4 @@ Skills: Python, Linux, SQL, SIEM tools, IDS, Wireshark,
 6. Identifying vulnerabilities for a small business
 7. Documenting incidents with an incident handler's journal
 ```
-[google cybersecurity certificate.pdf](https://github.com/eDi9root/google_cybersecurity/files/14490791/google.cybersecurity.certificate.pdf)
+
